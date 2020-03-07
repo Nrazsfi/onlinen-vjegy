@@ -72,7 +72,7 @@ p{
 ul {
   list-style-type: none;
   text-align: center;
-  margin:6px;
+  margin:7px;
 }
 li {
   display: inline;
@@ -80,9 +80,9 @@ li {
 
 a {
   text-decoration: none;
-  border:1px white solid;
+  border:1px grey solid;
   border-radius: 20%;
-  padding:11px;
+  padding:5px;
   margin:6px;
 }
 
