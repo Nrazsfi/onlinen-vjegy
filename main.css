@@ -1,0 +1,64 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-size: 100%;
+    color: whitesmoke;
+}
+
+img {
+  width:80px;
+  height:80px;
+  border: 5px yellow 0.8;
+  border-radius: 50%;
+  filter: blur(10px);
+  position:sticky;
+  margin: 5px;
+}
+
+img:hover {
+  filter: blur(0px);
+}
+
+
+body {
+   background: url('/assets/20191210_130113.jpg') no-repeat center center fixed;
+   background-size: cover;
+}
+
+.container{
+  width: 55%;
+  padding-top: 25px;
+  padding-left: 50px; 
+  padding-right: 50px;
+  left: 20%;
+  padding-bottom: 20px;
+  background-color: hsla(9, 9%, 10%, .99);
+  border-radius: 50px;
+  position: relative;
+  font-family: 'Inder';font-size: 18px;
+  font-size: 20px;
+  letter-spacing: 0.2em;
+}
+h1 {
+  font-size: 55px;
+}
+
+h1, h3 {
+  color:red;
+}
+h2 {
+  font-size:25px;
+  letter-spacing: 0.3em;
+  margin-bottom: 20px;
+}
+h3{
+  margin:20px;
+}
+p{
+  margin:5px;
+}
+
+
+
+
