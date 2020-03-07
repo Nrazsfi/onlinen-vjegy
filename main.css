@@ -22,7 +22,7 @@ img:hover {
 
 
 body {
-   background: url('/assets/20191210_130113.jpg') no-repeat center center fixed;
+   background: url("/assets/20191210_130113.jpg") no-repeat center center fixed;
    background-size: cover;
 }
 
