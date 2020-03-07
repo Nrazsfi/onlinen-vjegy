@@ -66,6 +66,7 @@ p{
   height: 7vh;
   bottom:0;
   background-color: hsla(9,9%,9%,0.9);
+  padding-top: 10px;
 }
 /* Contact links */
 ul {
@@ -79,7 +80,10 @@ li {
 
 a {
   text-decoration: none;
-  margin:5px;
+  border:1px white solid;
+  border-radius: 20%;
+  padding:11px;
+  margin:6px;
 }
 
 
