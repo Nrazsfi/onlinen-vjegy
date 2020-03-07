@@ -71,6 +71,7 @@ p{
 ul {
   list-style-type: none;
   text-align: center;
+  margin:6px;
 }
 li {
   display: inline;
